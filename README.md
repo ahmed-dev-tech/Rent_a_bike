@@ -4,7 +4,7 @@ To Start this project Download the code
 and simply run "main.py"
 here are some examples of running this:
 The project start with signup page
-![Signup]<img src="C:\Users\hh\Desktop\RentABike-Signup.PNG">
+<img src="C:\Users\hh\Desktop\RentABike-Signup.PNG" width="250">
 after signing up 
 login page pop up
 ![SigIn](C:\Users\hh\Desktop\RentABike-SignIN.PNG)
