@@ -23,7 +23,8 @@ so move to Add bike
 simply write name that you want your bike have
 
 
-![Add bike](C:\Users\hh\Desktop\RentABikeOutput.PNG)
+![Add bike](https://github.com/ahmed-dev-tech/Rent_a_bike/blob/main/BikeProject/examples/RentABikeOutput.PNG)
+
 ![bike Added](https://github.com/ahmed-dev-tech/Rent_a_bike/blob/main/BikeProject/examples/RentABike-GenerateQR.PNG)
 
 After Generating QR code
